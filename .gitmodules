@@ -1,0 +1,3 @@
+[submodule "mlops101-wine"]
+	path = mlops101-wine
+	url = https://github.com/thegauravsingh/mlops101-wine.git
