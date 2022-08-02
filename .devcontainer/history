@@ -1,0 +1,68 @@
+vscode ➜ /workspace (master ✗) $ history 
+    1  netstat -pultn
+    2  sudo vi /etc/ssh/sshd_config
+    3  sudo systemctl restart ssh.service
+    4  sudo systemctl restart ssh
+    5  sudo service restart sshd
+    6  sudo service --status-all
+    7  sudo service ssh restart
+    8  sudo vi /etc/ssh/sshd_config
+    9  sudo service ssh restart
+   10  sudo vi /etc/ssh/sshd_config
+   11  sudo service ssh restart
+   12  sudo more /etc/ssh/sshd_config | grep StrictHostKeyChecking
+   13  sudo more /etc/ssh/sshd_config | grep Strict
+   14  sudo su - sshuser
+   15  less /etc/passwd
+   16  sudo su - ssh_user
+   17  sudo vi /etc/ssh/sshd_config
+   18  sudo service ssh stop
+   19  sudo -i
+   20  sudo service ssh restart
+   21  history
+   22  sudo vi /etc/ssh/ssh_config
+   23  sudo vi /etc/ssh/sshd_config
+   24  sudo -i
+   25  sudo -i 
+   26  echo "# AIRFLOW" >> README.md
+   27  git init
+   28  git commit -m "first commit"
+   29  git add .
+   30  git reset
+   31  git init
+   32  git add .
+   33  git add .env
+   34  git add -f .env
+   35  git branch -M master
+   36  git remote add origin https://github.com/thegauravsingh/AIRFLOW.git
+   37  git push -u origin master
+   38  git push 
+   39  git branch -a
+   40  git branch all
+   41  git branch - a
+   42  git remote add origin https://github.com/thegauravsingh/AIRFLOW.git
+   43  git push -u origin master
+   44  git pull --rebase
+   45  git pull --rebase origin main
+   46  git pull --rebase origin master
+   47  git push origin main
+   48  git reset origin/master
+   49  git reset
+   50  ls
+   51  ls -latr .
+   52  rm -rf .git
+   53  git init
+   54  git remote add origin https://github.com/thegauravsingh/AIRFLOW.git
+   55  git branch -M master
+   56  git push -u origin master
+   57  git add .
+   58  git commit -m "initial commit"
+   59  git push origin master
+   60  /usr/local/bin/python /workspace/plugins/test.py
+   61  /usr/local/bin/python test.py
+   62  /usr/local/bin/python /workspace/plugins/test.py
+   63  /usr/bin/python3 /workspace/plugins/test.py
+   64  pip install pandas
+   65  /usr/local/python/bin/python /workspace/plugins/test.py
+   66  /usr/local/python/bin/python /workspace/plugins/test.py cd /workspace ; /usr/bin/env /usr/local/python/bin/python /home/vscode/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 40679 -- /workspace/plugins/test.py 
+   67  history | grep ssh
